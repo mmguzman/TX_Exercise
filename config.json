@@ -1,0 +1,8 @@
+{
+  "web driver": {
+    "browser": "firefox",
+    "implicit wait": "30",
+    "explicit wait": "40",
+    "wait sleep": "500"
+  }
+}
